@@ -47,7 +47,7 @@
                             <div class="absolute inset-y-0 left-0 pl-3 flex items-center pointer-events-none text-slate-400">
                                 <span class="material-symbols-outlined text-[20px]">badge</span>
                             </div>
-                            <input name="nama" type="text" required class="form-input flex w-full rounded-lg border border-slate-200 bg-slate-50 h-14 pl-10 pr-4 focus:border-primary focus:ring-primary transition-all" placeholder="Contoh: Budi Santoso" />
+                            <input name="nama" type="text" required class="form-input flex w-full rounded-lg border border-slate-200 bg-slate-50 h-14 pl-10 pr-4 focus:border-primary focus:ring-primary transition-all" placeholder="Contoh: Taufik Darmawan" />
                         </div>
                     </label>
 
